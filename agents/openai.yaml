@@ -1,0 +1,3 @@
+interface:
+  display_name: "Bass Score From Audio"
+  short_description: "Transcribe recordings to bass notation, TAB, and practice tracks"
