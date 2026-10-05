@@ -1,6 +1,6 @@
 {
   "name": "bass-score-from-audio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn user-provided recordings into a bass practice pack with separated audio, notation, TAB, MIDI, MusicXML, and PDF.",
   "author": {
     "name": "BenedictCoeiianae",
@@ -11,7 +11,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Bass Score from Audio",
-    "shortDescription": "Turn recordings into bass practice scores",
+    "shortDescription": "Audio to bass practice scores",
     "longDescription": "Create a bass practice pack from recordings you provide: isolated bass and backing audio, bass-clef notation, four-string TAB, MIDI, MusicXML, and a checked PDF. The skill guides transcription and verification; accuracy depends on the source audio and available local tools.",
     "developerName": "BenedictCoeiianae",
     "category": "Music",
